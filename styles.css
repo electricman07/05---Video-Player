@@ -1,0 +1,8 @@
+:root {
+  --primary-color: dodgerblue;
+  --font-color: white;
+}
+
+html {
+  box-sizing: border-box;
+}
