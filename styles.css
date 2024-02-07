@@ -18,3 +18,23 @@ body {
   align-items: center;
   font-family: Helvetica, sans-serif;
 }
+
+.fas {
+  color: var(--font-color);
+  font-size: 35px;
+}
+
+.player {
+  max-width: 80vh;
+  min-width: 800px;
+  border: 5px solid black;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+video {
+  border-radius: 5px;
+  width: 100%;
+  height: auto;
+}
